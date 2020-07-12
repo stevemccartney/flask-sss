@@ -1,0 +1,7 @@
+__title__ = 'Flask-SSS'
+__description__ = 'Server-Side Sessions for Flask implemented as a SessionInterface.'
+__version__ = '0.1.0'
+__author__ = 'Steve McCartney'
+__author_email__ = 'python@reconvergent.com'
+__license__ = 'Apache 2.0'
+__url__ = 'https://github.com/stevemccartney/flask-sss'
